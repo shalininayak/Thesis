@@ -1,5 +1,5 @@
 # Thesis
-
+Report Link : https://github.com/shalininayak/Thesis/blob/main/BUSM130%20Group%20Project%20Report%20-%20Team%205.pdf
 Our business problem is to find product recommendations for each Yuty customer based on their inputs and data samples using unsupervised machine learning models and provides business analysis on it.
 
 The business objective is to make a text classification model. By analysing the dataset, we used an unsupervised learning method with the univariate variable as descriptive statistics as our analysis i.e., ingredients. 
